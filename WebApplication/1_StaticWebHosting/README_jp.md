@@ -276,6 +276,6 @@ Webサイトにカスタムドメインを使用することもできます。 �
 
 ページが正しく表示される場合（スクリーンショットの例については下記を参照）、次のモジュールのUser Managementに進むことができます。
 
-> If the page renders correctly (see below for an example screenshot), you can move on to the next module, [User Management](../2_UserManagement).
+> If the page renders correctly (see below for an example screenshot), you can move on to the next module, [User Management](../2_UserManagement/README_jp.md).
 
 ![Wild Rydes homepage screenshot](../images/wildrydes-homepage.png)

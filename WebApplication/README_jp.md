@@ -16,9 +16,9 @@
 
 あなたが飛び込んで始めたいのであれば、ワークショップを始めるために静的ウェブホスティングモジュールのページを訪問してください。
 
-> If you'd like to jump in and get started please visit the [Static Web hosting](1_StaticWebHosting) module page to begin the workshop.
+> If you'd like to jump in and get started please visit the [Static Web hosting](1_StaticWebHosting/README_jp.md) module page to begin the workshop.
 
-## 前提条件 (Prerequisites)
+## Prerequisites (前提条件)
 
 ### AWS Account
 
@@ -49,9 +49,9 @@
 > This workshop is broken up into multiple modules. You must complete each module before proceeding to the next, however, modules 1 and 2 have AWS CloudFormation templates available that you can use to launch the necessary resources without manually creating them yourself if you'd like to skip ahead.
 
 1. [Static Web hosting](1_StaticWebHosting/README_jp.md)
-2. [User Management](2_UserManagement)
-3. [Serverless Backend](3_ServerlessBackend)
-4. [RESTful APIs](4_RESTfulAPIs)
+2. [User Management](2_UserManagement/README_jp.md)
+3. [Serverless Backend](3_ServerlessBackend/README_jp.md)
+4. [RESTful APIs](4_RESTfulAPIs/README_jp.md)
 
 ワークショップを終了したら、クリーンアップガイドに従って作成されたすべてのリソースを削除できます。
 
